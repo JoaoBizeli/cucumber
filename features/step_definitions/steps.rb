@@ -5,7 +5,7 @@ class Restaurante
         return "Virado a Paulista"
       when "terça-feira"
         return "Dobradinha"
-      when "quarta-feira"
+      when "quarta-feira" 
         return "Feijoada"
       when "quinta-feira"
         return "Macarrão"
